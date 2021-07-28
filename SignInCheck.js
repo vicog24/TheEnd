@@ -15,7 +15,7 @@ loginButton.addEventListener("click", (e) => {
 		}
 		else
 		{
-				alert("Correct Id but Invalid Password!!! :)");
+				alert("Correct ID but Invalid Password!!! :)");
 		}
 	}
 			
